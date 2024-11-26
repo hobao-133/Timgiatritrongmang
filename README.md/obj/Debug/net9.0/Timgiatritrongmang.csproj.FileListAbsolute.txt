@@ -1,0 +1,14 @@
+c:\Users\OS\Documents\Codegym 2\Part 6 - Mảng trong C#\Thực Hành\Timgiatritrongmang\bin\Debug\net9.0\Timgiatritrongmang.exe
+c:\Users\OS\Documents\Codegym 2\Part 6 - Mảng trong C#\Thực Hành\Timgiatritrongmang\bin\Debug\net9.0\Timgiatritrongmang.deps.json
+c:\Users\OS\Documents\Codegym 2\Part 6 - Mảng trong C#\Thực Hành\Timgiatritrongmang\bin\Debug\net9.0\Timgiatritrongmang.runtimeconfig.json
+c:\Users\OS\Documents\Codegym 2\Part 6 - Mảng trong C#\Thực Hành\Timgiatritrongmang\bin\Debug\net9.0\Timgiatritrongmang.dll
+c:\Users\OS\Documents\Codegym 2\Part 6 - Mảng trong C#\Thực Hành\Timgiatritrongmang\bin\Debug\net9.0\Timgiatritrongmang.pdb
+c:\Users\OS\Documents\Codegym 2\Part 6 - Mảng trong C#\Thực Hành\Timgiatritrongmang\obj\Debug\net9.0\Timgiatritrongmang.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\OS\Documents\Codegym 2\Part 6 - Mảng trong C#\Thực Hành\Timgiatritrongmang\obj\Debug\net9.0\Timgiatritrongmang.AssemblyInfoInputs.cache
+c:\Users\OS\Documents\Codegym 2\Part 6 - Mảng trong C#\Thực Hành\Timgiatritrongmang\obj\Debug\net9.0\Timgiatritrongmang.AssemblyInfo.cs
+c:\Users\OS\Documents\Codegym 2\Part 6 - Mảng trong C#\Thực Hành\Timgiatritrongmang\obj\Debug\net9.0\Timgiatritrongmang.csproj.CoreCompileInputs.cache
+c:\Users\OS\Documents\Codegym 2\Part 6 - Mảng trong C#\Thực Hành\Timgiatritrongmang\obj\Debug\net9.0\Timgiatritrongmang.dll
+c:\Users\OS\Documents\Codegym 2\Part 6 - Mảng trong C#\Thực Hành\Timgiatritrongmang\obj\Debug\net9.0\refint\Timgiatritrongmang.dll
+c:\Users\OS\Documents\Codegym 2\Part 6 - Mảng trong C#\Thực Hành\Timgiatritrongmang\obj\Debug\net9.0\Timgiatritrongmang.pdb
+c:\Users\OS\Documents\Codegym 2\Part 6 - Mảng trong C#\Thực Hành\Timgiatritrongmang\obj\Debug\net9.0\Timgiatritrongmang.genruntimeconfig.cache
+c:\Users\OS\Documents\Codegym 2\Part 6 - Mảng trong C#\Thực Hành\Timgiatritrongmang\obj\Debug\net9.0\ref\Timgiatritrongmang.dll
