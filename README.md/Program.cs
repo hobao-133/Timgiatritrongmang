@@ -1,23 +1,47 @@
-﻿using System;
-class Program{
-    static void Main(string[]args)
+﻿﻿using System;
+
+namespace dotnet_FindMax
 {
-        string[] students = {"Christian", "Michael", "Camila", "Sienna", "Tanya", "Connor", "Zachariah", "Mallory", "Zoe", "Emily"};
-        Console.WriteLine("Enter name of a student:");
-        string input_name = Console.ReadLine();
-        bool isExist = false;
-        for (int i = 0; i < students.Length; i++)
+    class Program
+    {
+        static void Main(string[] args)
         {
-        if (students[i].Equals(input_name))
+            int size;
+            int[] array;
+            do
             {
-            Console.WriteLine("Position of the students in the list " + input_name + " is: " + (i + 1));
-            isExist = true;
-            break;
+                Console.WriteLine("Enter a size:");
+                size = Int32.Parse(Console.ReadLine());
+                if (size > 20)
+                    Console.WriteLine("Size should not exceed 20");
+            } while (size > 20);
+
+            array = new int[size];
+            int i = 0;
+            while (i < array.Length)
+            {
+                Console.WriteLine("Enter element" + (i + 1) + " : ");
+                array[i] = Int32.Parse(Console.ReadLine());
+                i++;
             }
-        }
-        if (!isExist)
-        {
-        Console.WriteLine("Not found" + input_name + " in the list.");
+
+            Console.WriteLine("Property list: ");
+            for (int j = 0; j < array.Length; j++)
+            {
+                Console.WriteLine(array[j] + "\t");
+            }
+
+            int max = array[0];
+            int index = 1;
+            for (int j = 0; j < array.Length; j++)
+            {
+                if (array[j] > max)
+                {
+                    max = array[j];
+                    index = j + 1;
+                }
+            }
+            Console.WriteLine("The largest property value in the list is " + max + " ,at position " + index);
         }
     }
 }
